@@ -2,4 +2,4 @@
 # WebApps-F23-Assignment-3
 Assignment 3 - Basic HTML 
 
-Harini's git hub [Hosted at]( https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-HariniBeeram/)
+ Hosted at[Harini's git hub]( https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-HariniBeeram/)
